@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+   }
+   ul {
+    text-decoration: none;
+   }
+   li {
+    display: inline-block;
+   }
